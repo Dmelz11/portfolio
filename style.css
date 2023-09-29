@@ -47,3 +47,20 @@ img {
 ul{
     margin-left: 20px;  
 }
+
+.container {
+  display:flex;
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
