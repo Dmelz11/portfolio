@@ -35,12 +35,19 @@ h2 {
   margin-top: 50px;
   margin-bottom: 10px;
 }
+.img {
+  height: 500px;
+  width: 400px;
+}
 .refactoring {
   margin-bottom: 50px;
   margin-right: 1000px;
   width: 300px;
+  text-decoration: none;
 }
-
+.student-bio {
+  width: 2000px;
+}
 ul{
     margin-left: 20px;  
 }
