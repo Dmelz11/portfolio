@@ -55,10 +55,15 @@ h1 {
 .student-bio {
   width: 100%;
 }
+.AirScape {
+  display: flex;
+  width: 50%;
+  margin-right: 600px;
+}
 ul{
     margin-left: 20px;  
 }
-
+.
 
 @media screen and (max-width: 500px) {
   body {
